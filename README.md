@@ -1,6 +1,6 @@
 # Gap-Up Analysis: CVNA (2019–2025)
 
-![Dashboard](/dashboard.png)
+![Dashboard](/CVNA_dashboard.png)
 
 ## Project Objective
 The objective of this project is to identify and analyze **positive gap-up events** in CVNA stock over the period from 2019 to 2024 and to determine whether gap formation exhibits **predictable patterns or structural regularities**.
